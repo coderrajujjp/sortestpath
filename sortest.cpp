@@ -6,6 +6,7 @@
 #include <stdio.h>
  
 // Number of vertices in the graph
+//we don't need macros it will also work without macros
 #define V 9
  
 // A utility function to find the vertex with minimum distance value, from
